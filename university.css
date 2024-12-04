@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: red; 
+  font-family: "Noto Serif Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  
+    
+}
+
+
+.navbar-brand img {
+    margin-right: 10px;
+    
+    
+}
+
+.program-title {
+    color: yellow;
+}
+
+footer p {
+    margin: 0;
+    color: white;
+}
+.a{
+    color: red;
+}
+.btn-primary {
+    background-color: green;
+    border-color: green;
+}
+.column {
+    display: flex;
+    flex-direction: right;
+    justify-content: column;
+    align-content: right;
+}
+#best-university-education{
+font-family: Verdana,  sans-serif;
+font-size:30px ;
+color: blue;
+}
+#rinah-university-navbar-tab{
+    color:rgb(237, 95, 119)
+}
+#cyber-security-offered{
+    background-color:rgb(237, 95, 119);
+}
+#environmental-science-offered{
+    background-color: rgb(247, 2, 165);
+}
+#law-course-offered{
+    background-color: rgb(7, 163, 214) ;
+}
+#find-more-button{
+    background-color: yellow;
+    border-radius: 25px ;
+    border: solid;
+    color:rgb(0, 140, 255)
+    
+}
+.program-text{
+  font-family: "Geist Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 10px;
+  font-style: normal;
+
+}
+
+.nav-link{
+    color:white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+#rinah-university-navbar-tab{
+    color:red;
+}
+.rinah-university-logo{
+align-content: left;
+}
+
+
+
+
+
